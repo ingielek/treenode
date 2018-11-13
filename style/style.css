@@ -20,17 +20,29 @@
 }
 
 .webDesign {
-    margin-top: 50px;
+    position: absolute;
+    top: 101git statuspx;
+    left: 0;
 }
 
 .HTML {
-    top: 100px;
-    left: 26px;
+    top: 50px;
+    left: 657px;
 }
 
 .CSS {
-    top: 50px;
-    left: 476px;
+    top: 0px;
+    left: 206px;
+}
+
+.XHTML {
+    top: 120px;
+    left: 200px;
+}
+
+.htmlChild {
+    top: 67px;
+    left: -136%;
 }
 
 .container:hover{
@@ -66,4 +78,13 @@
 
 .horizontalLineLeft {
     right: 50%;
+}
+
+.twoElemParent {
+    position: absolute;
+    right: 430px;
+    top: 101px;
+}
+.twoElemChild {
+    position: relative;
 }
